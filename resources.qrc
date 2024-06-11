@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>icons/icons8-bar-chart-16.png</file>
+    <file>icons/icons8-bar-chart-50.png</file>
+    <file>icons/icons8-piechart-48.png</file>
+  </qresource>
+</RCC>
